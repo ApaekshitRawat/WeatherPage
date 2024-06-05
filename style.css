@@ -99,3 +99,14 @@ body {
   margin-top: 20px;
   display: none;
 }
+@media screen and (max-width: 480px) {
+  .search input {
+    width: 70%;
+  }
+  .col {
+    width: 50%;
+  }
+  .details {
+    padding: 0;
+  }
+}
