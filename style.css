@@ -109,4 +109,7 @@ body {
   .details {
     padding: 0;
   }
+  .card {
+    margin: 30% auto;
+  }
 }
